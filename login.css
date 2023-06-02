@@ -1,0 +1,61 @@
+*{  margin: 0;
+    padding: 0;
+   
+   
+    
+   }
+html{
+
+    background:url(./mynt-done_53876-119946.avif);
+    
+}
+img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.login{
+    background-color: lightgreen;
+    width: 400px;
+    height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+    margin-top: 120px;
+    
+}
+
+input{
+    margin-left: 80px;
+    margin-top: 50px;
+    margin-bottom: 5px;
+    height: 30px;
+    width: 250px;
+    border-radius: 10px;
+    border-color:white;
+       
+}
+
+
+button{
+margin-left: 125px;
+margin-top: 60px;
+height: 30px;
+width: 120px;
+border-radius: 10px;
+border: none;
+background-color:#B0C4DE ;
+}
+
+p{
+    color:black;
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+#gh{
+    margin-bottom: 20px;
+    margin-left: 170px;
+    color: lightslategray;
+   }
